@@ -36,6 +36,7 @@ public class ProyectoFinal {
         System.out.println("Cliente          : " + nombre);
         System.out.println("Total compras    : " + total);
         System.out.println("Promedio compras : " + promedio);
+        System.out.println("Número de telefono de Alonso");
     }
 }
 
